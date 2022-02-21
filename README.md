@@ -1,4 +1,3 @@
 # PracticalWork
 
-файл Ридми
-++
+PracticalWork
